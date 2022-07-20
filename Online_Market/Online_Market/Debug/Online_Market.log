@@ -1,0 +1,9 @@
+﻿  customer.cpp
+E:\visual_projects\Online_Market\Online_Market\customer.cpp(12,7): warning C4101: 'cc': unreferenced local variable
+E:\visual_projects\Online_Market\Online_Market\customer.cpp(13,16): warning C4101: 'choose': unreferenced local variable
+  product.cpp
+  seller.cpp
+  Source.cpp
+  Start_page.cpp
+  Generating Code...
+  Online_Market.vcxproj -> E:\visual_projects\Online_Market\Debug\Online_Market.exe
